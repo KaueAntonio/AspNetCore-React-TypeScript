@@ -1,4 +1,4 @@
-# API Asp .NET Core | Web Em React TypesCript
+# API Asp .NET Core | Web Em React TypeScript
 
 ## Como Usar:
   - Vá Para a Pasta \ClientAPP\ e Execute o Comando "npm install".
