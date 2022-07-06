@@ -1,4 +1,4 @@
-# API Asp .NET Core | Web Em React TypeScript
+# Template API Asp .NET Core | Web Em React TypeScript
 
 ### Projeto Voltado Para Aplicações React Em TypeScript
 
